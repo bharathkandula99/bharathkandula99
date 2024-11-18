@@ -9,6 +9,7 @@ Hi, I'm Bharath kandula, a 4 year-experienced Senior Front-End Android Developer
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://www.linkedin.com/in/bharath-kandula-637b49176/](http://www.linkedin.com/in/bharath-kandula-637b49176/)
 * ✉️  You can contact me at [bharathkandula321@gmail.com](mailto:bharathkandula321@gmail.com)
+* 🚀  I'm currently working on [Freyr energy](http://freyrenergy.com/)
 * 🧠  I'm learning Web development, Spring boot
 * 🤝  I'm open to collaborating on Interesting projects
 
@@ -29,8 +30,6 @@ Hi, I'm Bharath kandula, a 4 year-experienced Senior Front-End Android Developer
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/bharathkandula99"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bharathkandula99&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/bharathkandula99"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=bharathkandula99&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/bharathkandula99" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathkandula99&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
