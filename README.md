@@ -9,7 +9,7 @@ Hi, I'm Bharath kandula, a 4 year-experienced Senior Front-End Android Developer
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://www.linkedin.com/in/bharath-kandula-637b49176/](http://www.linkedin.com/in/bharath-kandula-637b49176/)
 * ✉️  You can contact me at [bharathkandula321@gmail.com](mailto:bharathkandula321@gmail.com)
-* 🚀  I'm currently working on [Freyr energy](http://freyrenergy.com/)
+* 🚀  I'm currently working on [Freyr energy](http://freyrenergy.com/), Paypoint
 * 🧠  I'm learning Web development, Spring boot, Japanese language
 * 🤝  I'm open to collaborating on Interesting projects
 
